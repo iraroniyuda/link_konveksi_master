@@ -1,6 +1,6 @@
 # link_konveksi_master
 
-A new Flutter project.
+Dummy Prototype Project About Textile Marketplace
 
 ## Getting Started
 
