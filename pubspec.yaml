@@ -1,0 +1,82 @@
+name: link_konveksi_master
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+
+dependencies:
+  animated_splash_screen: ^1.3.0
+  camera: ^0.10.5+4
+  cloud_firestore: ^4.9.2
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.10.0
+  firebase_core: ^2.16.0
+  firebase_database: ^10.2.6
+  firebase_storage: ^11.2.7
+  fl_chart: ^0.63.0
+  flutter:
+    sdk: flutter
+  flutter_carousel_widget: ^2.1.0
+  flutter_chart: ^0.1.6
+  flutter_gradient_app_bar: ^0.3.1
+  google_sign_in: ^6.1.5
+  image_picker: ^1.0.4
+  intl: ^0.17.0
+  permission_handler: ^11.0.0
+  provider: ^6.0.5
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/banner1.png
+    - assets/images/banner2.png
+    - assets/images/banner3.png
+    - assets/images/banner4.png
+    - assets/images/banner5.png
+    - assets/images/banner6.png
+    - assets/images/logo.png
+    - assets/splash_logo.png
+    - assets/custom_icons/icon1.png
+    - assets/custom_icons/icon2.png
+    - assets/custom_icons/icon3.png
+    - assets/custom_icons/icon4.png
+    - assets/custom_icons/icon5.png
+    - assets/custom_icons/icon6.png
+    - assets/custom_icons/icon7.png
+    - assets/custom_icons/icon8.png
+    - assets/custom_icons/icon9.png
+    - assets/custom_icons/icon10.png
+    - assets/custom_icons/icon11.png
+    - assets/custom_icons/icon12.png
+    - assets/custom_icons/icon13.png
+    - assets/custom_icons/icon14.png
+    - assets/custom_icons/icon15.png
+    - assets/custom_icons/icon16.png
+    - assets/custom_icons/icon17.png
+    - assets/custom_icons/icon18.png
+    - android/app/src/main/res/mipmap-mdpi/ic_launcher.png
+    - android/app/src/main/res/mipmap-hdpi/ic_launcher.png
+    - android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+    - android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+    - android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+    - assets/ic_launcher.png
+    - assets/dummy/product1.jpg
+    - assets/dummy/product2.jpg
+    - assets/dummy/product3.jpg
+    - assets/dummy/product4.jpg
+    - assets/dummy/product5.jpg
+    - assets/dummy/product6.jpg
+    - assets/dummy/product7.jpg
+    - assets/dummy/product8.jpg
+    - assets/dummy/product9.jpg
+
+    
